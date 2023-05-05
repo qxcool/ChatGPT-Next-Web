@@ -96,7 +96,7 @@ export function SideBar(props: { className?: string }) {
       }`}
     >
       <div className={styles["sidebar-header"]}>
-        <div className={styles["sidebar-title"]}>Chat-圣承科技</div>
+        <div className={styles["sidebar-title"]}>Chat-圣承科技（GPT-3.5）</div>
         <div className={styles["sidebar-sub-title"]}>
           智能AI助力、更好的完成工作
         </div>
